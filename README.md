@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+
+hi Humans!
+
+Fumiaki-Takahashi here, I like Node.js.
